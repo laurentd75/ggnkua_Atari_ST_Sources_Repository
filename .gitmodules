@@ -7,9 +7,6 @@
 [submodule "ASM/Various/Matt Lacey/columns"]
 	path = ASM/Various/Matt Lacey/columns
 	url = https://github.com/mattlacey/columns.git
-[submodule "ASM/LINEOUT/sawstep"]
-	path = ASM/Lineout/sawstep
-	url = https://github.com/pietervandermeer/sawstep.git
 [submodule "C/Petr Stehlik/parcp"]
 	path = C/Petr Stehlik/parcp
 	url = https://github.com/joysfera/parcp.git
@@ -1079,13 +1076,10 @@
 [submodule "C/Carpet Ritz Crumbs/hddriver-patch"]
 	path = C/Carpet Ritz Crumbs/hddriver-patch
 	url = https://github.com/kareandersen/hddriver-patch
-[submodule "ASM\\Sector One\\mpp"]
-    url = https://codeberg.org/zerkman/mpp
-    path = ASM/Sector One/mpp
-[submodule "ASM\\Sector One\\zpacker"]
+[submodule "ASM/Sector One/zpacker"]
 	url = https://codeberg.org/zerkman/zpacker
     path = ASM/Sector One/zpacker
-[submodule "ASM\\Sector One\\zkbd"]
+[submodule "ASM/Sector One/zkbd"]
 	url = https://codeberg.org/zerkman/zkbd
     path = ASM/Sector One/zkbd
 [submodule "ASM/Sector One/shifter_inside"]
@@ -1094,12 +1088,6 @@
 [submodule "ASM/Sector One/mpp"]
 	path = ASM/Sector One/mpp
 	url = https://codeberg.org/zerkman/mpp.git
-[submodule "ASM/Sector One/zpacker"]
-	path = ASM/Sector One/zpacker
-	url = https://codeberg.org/zerkman/zpacker.git
-[submodule "ASM/Sector One/zkbd"]
-	path = ASM/Sector One/zkbd
-	url = https://codeberg.org/zerkman/zkbd.git
 [submodule "ASM/Sector One/ataristskel"]
 	path = ASM/Sector One/ataristskel
 	url = https://github.com/frost242/ataristskel.git
@@ -1201,3 +1189,9 @@
 [submodule "ASM/Synchron Assembly (SYNC)/WSDETECT"]
 	path = ASM/Synchron Assembly (SYNC)/WSDETECT
 	url = https://git.sync.wtf/sync/WSDETECT
+[submodule "C/Ingo Paschke/EGEM_220"]
+	path = C/Ingo Paschke/EGEM_220
+	url = https://github.com/ingpaschke/EGEM_220.git
+[submodule "C/Ingo Paschke/NetHack"]
+	path = C/Ingo Paschke/NetHack
+	url = https://github.com/ingpaschke/NetHack
